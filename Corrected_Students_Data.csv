@@ -1,0 +1,16 @@
+name,GPA,DSA_grade,role,courses_taken
+John Smith,3.7,A,undergrad,"COP 4538 (A), COP 4703 (A)"
+Emily Davis,3.9,A,grad,CNT 4104 (A)
+Michael Johnson,3.4,B,grad,"CIS 4200 (A), CNT 4403 (A)"
+Sophia Brown,3.6,A,undergrad,"CIS 3213 (A), CIS 4219 (A)"
+James Wilson,3.8,A,grad,"COP 4703 (A), COP 4538 (A)"
+Olivia Garcia,3.9,A,grad,"ISM 4323 (A), CNT 4104 (A)"
+William Martinez,3.5,B,undergrad,CNT 4403 (A)
+Isabella Hernandez,3.2,B,undergrad,"CIS 4219 (A), CIS 4622 (A)"
+Alexander Lee,3.7,A,grad,"COP 4538 (A), CNT 4104 (A)"
+Mia Kim,3.6,A,undergrad,CIS 4200 (A)
+Ethan White,3.8,A,undergrad,"CIS 4622 (A), ISM 4323 (A)"
+Emma Thompson,3.9,A,grad,"CIS 4219 (A), CIS 4622 (A)"
+Noah Moore,3.6,A,undergrad,COP 4703 (A)
+Ava Lewis,3.5,B,undergrad,CNT 4104 (A)
+Liam Anderson,3.9,A,grad,"ISM 4323 (A), CNT 4104 (A)"
