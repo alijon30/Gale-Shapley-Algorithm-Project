@@ -1,0 +1,104 @@
+TA Assignment Report
+==============================
+
+Courses and Assigned TAs:
+Course CNT 4403 has the following TAs: Mila Ramirez, Layla Murphy
+Course COP 4703 has the following TAs: James Wilson
+Course CNT 4104 has the following TAs: Emily Davis
+Course CIS 3213 has the following TAs: Sophia Brown
+Course CIS 4219 has the following TAs: Emma Thompson
+Course CIS 4200 has the following TAs: Mia Kim
+Course ISM 4323 has the following TAs: Olivia Garcia
+Course COP 4538 has the following TAs: Joseph Hernandez, Nora Scott
+Course CIS 4622 has the following TAs: Ethan White
+
+Unassigned Students:
+John Smith is not assigned to any course.
+Michael Johnson is not assigned to any course.
+William Martinez is not assigned to any course.
+Isabella Hernandez is not assigned to any course.
+Alexander Lee is not assigned to any course.
+Noah Moore is not assigned to any course.
+Ava Lewis is not assigned to any course.
+Liam Anderson is not assigned to any course.
+Jacob Hall is not assigned to any course.
+Charlotte Young is not assigned to any course.
+Benjamin Adams is not assigned to any course.
+Abigail Allen is not assigned to any course.
+Lucas Scott is not assigned to any course.
+Ella Walker is not assigned to any course.
+Henry Green is not assigned to any course.
+Amelia Baker is not assigned to any course.
+Daniel Wright is not assigned to any course.
+Chloe Turner is not assigned to any course.
+Samuel Rivera is not assigned to any course.
+Sofia Torres is not assigned to any course.
+Matthew Nelson is not assigned to any course.
+Grace Carter is not assigned to any course.
+David Perez is not assigned to any course.
+Hannah Roberts is not assigned to any course.
+Elijah Clark is not assigned to any course.
+Zoe Mitchell is not assigned to any course.
+Sebastian Rodriguez is not assigned to any course.
+Natalie Ramirez is not assigned to any course.
+Jackson Phillips is not assigned to any course.
+Lily Campbell is not assigned to any course.
+Logan Parker is not assigned to any course.
+Victoria Evans is not assigned to any course.
+Owen Edwards is not assigned to any course.
+Aiden Flores is not assigned to any course.
+Harper Sanders is not assigned to any course.
+Gabriel Rivera is not assigned to any course.
+Scarlett Brooks is not assigned to any course.
+Mason Bennett is not assigned to any course.
+Aria Hughes is not assigned to any course.
+Carter Russell is not assigned to any course.
+Riley Peterson is not assigned to any course.
+Jayden Wood is not assigned to any course.
+Penelope Price is not assigned to any course.
+Leo Bennett is not assigned to any course.
+Eleanor Jenkins is not assigned to any course.
+Grayson Bell is not assigned to any course.
+Leah Torres is not assigned to any course.
+Jack Collins is not assigned to any course.
+Violet Rivera is not assigned to any course.
+Isaac Foster is not assigned to any course.
+Stella Howard is not assigned to any course.
+Dylan Morgan is not assigned to any course.
+Aurora Reed is not assigned to any course.
+Wyatt Ortiz is not assigned to any course.
+Lillian Perry is not assigned to any course.
+Caleb Ross is not assigned to any course.
+Addison Cook is not assigned to any course.
+Nathan Bailey is not assigned to any course.
+Ellie Bryant is not assigned to any course.
+Luke Jenkins is not assigned to any course.
+Hunter Carter is not assigned to any course.
+Hazel Adams is not assigned to any course.
+Julian Nelson is not assigned to any course.
+Samantha Bennett is not assigned to any course.
+Aaron Watson is not assigned to any course.
+Skylar Cox is not assigned to any course.
+Isaiah Jenkins is not assigned to any course.
+Aubrey Howard is not assigned to any course.
+Thomas Price is not assigned to any course.
+Madison King is not assigned to any course.
+Andrew Hall is not assigned to any course.
+Lucy Barnes is not assigned to any course.
+Eli Mitchell is not assigned to any course.
+Savannah Murphy is not assigned to any course.
+Christian Bell is not assigned to any course.
+Zoe Ward is not assigned to any course.
+Anthony Gray is not assigned to any course.
+Evelyn Hughes is not assigned to any course.
+Jonathan Rivera is not assigned to any course.
+Adam Flores is not assigned to any course.
+Luna Flores is not assigned to any course.
+Isaac Sanders is not assigned to any course.
+Avery Long is not assigned to any course.
+Nathaniel Ortiz is not assigned to any course.
+Camila Foster is not assigned to any course.
+David Murphy is not assigned to any course.
+Claire Moore is not assigned to any course.
+Paisley Simmons is not assigned to any course.
+Charles White is not assigned to any course.
